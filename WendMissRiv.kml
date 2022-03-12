@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+  <Placemark id="MIS1">
+    <name>Ste. Marie</name>
+    <description>Certain location of the Jesuit Mission 1639-1649.</description>
+    <Point>
+      <coordinates>-79.8454518,44.7344289</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark id="MIS2">
+    <name>La Conception</name>
+    <description>Suggested location of the village of Ossossané.</description>
+  <Point>
+    <coordinates>-79.96287178,44.66916325</coordinates>
+  </Point>
+  </Placemark>
+
+  <Placemark id="MIS3">
+    <name>St. Michel</name>
+    <description>Suggested location of the village of Scanonaenrat.</
+  <Point>
+    <coordinates>-79.835583,44.619099</coordinates>
+  </Point>
+  </Placemark>
+
+  <Placemark id="MIS4">
+   <name>St. Ignace</name>
+   <description>Disputed location of the mission of St. Ignace.</description>
+  <Point>
+   <coordinates>-79.78246688,44.72950062</coordinates>
+  </Point>
+  </Placemark>
+
+  <Placemark id="MIS5">
+   <name>St. Joachim</name>
+   <description>Location of a large Wendat village, identity debated.</description>
+  <Point>
+    <coordinates>-79.6579,44.67109</coordinates>
+  </Point>
+ </Placemark>
+
+</kml>
